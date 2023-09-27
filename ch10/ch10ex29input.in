@@ -1,0 +1,3 @@
+I need to put in a bunch of strings
+into this input file and then read them into
+the vector using stream iterators

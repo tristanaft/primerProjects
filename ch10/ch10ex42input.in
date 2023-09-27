@@ -1,0 +1,4 @@
+I have to write down a bunch of strings and read them into a list
+but I also have to make sure that I include plenty of duplicate words
+so that the list will actually do something when I apply the unique
+function

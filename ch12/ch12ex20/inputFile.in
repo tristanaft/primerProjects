@@ -1,0 +1,5 @@
+So, I need to put strings into
+this file, then read the file
+line by line into a StrBlob
+object and then use StrBlobPtr
+to print the contents?

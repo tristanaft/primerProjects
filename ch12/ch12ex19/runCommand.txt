@@ -1,0 +1,5 @@
+run this command to compile and run this program:
+cd /Users/tristanaft/Desktop/cppProjects/primerProjects/ch12/ch12ex19 &&
+g++ -c *.cpp -std=c++11 &&
+g++ *.o -o ex19.out &&
+./ex19.out

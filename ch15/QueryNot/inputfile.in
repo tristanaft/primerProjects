@@ -1,0 +1,13 @@
+Ok, I have to write down some strings
+in this document to be able to query them,
+it would be nice to be able to remove punctuation
+but I haven't implemented that yet and it would probably
+be a big pain. Maybe not though.
+Hopefully the code will all compile and work fine first try
+but that is unlikely.
+I have probably spent more time on this last 
+section of chapter fifteen than any other part of the book.
+I have spent hours trying to figure out why I keep getting errors.
+I don't think it has been particularly informative.
+I just think that somewhere, I have messed up some include statement
+and somehow that keeps screwing up all of my code.
